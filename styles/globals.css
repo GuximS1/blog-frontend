@@ -1,7 +1,6 @@
 html,
 body {
-  padding: 0;
-  margin: 0;
+  background: linear-gradient(rgb(0, 1, 51) 100%, rgb(15, 16, 72) 100%);
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
@@ -9,8 +8,4 @@ body {
 a {
   color: inherit;
   text-decoration: none;
-}
-
-* {
-  box-sizing: border-box;
 }
